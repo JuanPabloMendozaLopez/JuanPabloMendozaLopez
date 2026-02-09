@@ -48,7 +48,7 @@ My vision for the future is clear: I aim to lead globally scaled projects where 
 <div align="center">
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/juan-pablo-mendoza-lopez/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222831?style=for-the-badge)]()
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-222831?style=for-the-badge)]() -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 
 </div>
