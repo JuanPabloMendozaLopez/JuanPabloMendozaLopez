@@ -88,16 +88,6 @@ My vision for the future is clear: I aim to lead globally scaled projects where 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=JuanPabloMendozaLopez&theme=nord)
-
-</div>
-
----
-
 <div align="center">
 
 ✨ *Always learning. Always improving.* ✨
