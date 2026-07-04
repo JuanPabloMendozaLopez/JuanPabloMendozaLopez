@@ -8,6 +8,8 @@
   <h2>Know About Me</h2>
 </div>
 
+<br>
+
 <img src="https://i.postimg.cc/N9NWtWGN/spidey-nobg2.png" width="210" align="left" style="margin-right: 40px;">
 
 <div align="justify">
@@ -19,6 +21,8 @@ Backend & Full-Stack Developer from La Guajira, Colombia — shaped by the disci
 I competed at WorldSkills in Software Development (Gold, WorldSkills Colombia · Silver, WorldSkills Americas), always chasing the next level of technical execution.
 
 I love the **.NET** ecosystem — **C#**, SQL Server, Clean Architecture — with detours into vanilla JS and whatever an AI hackathon throws at me at 2 a.m.
+
+<br>
 
 <hr style="border: 1px solid #161e68; margin-top: 10px; margin-bottom: 10px;">
 
