@@ -10,8 +10,8 @@
 
 Desarrollador Backend y Full-Stack de Colombia, formado en la disciplina del **SENA** y perfeccionado por la presión de **WorldSkills**.
 
-Competí en WorldSkills en Desarrollo de Software (Oro, WorldSkills Colombia · Plata, WorldSkills Américas), siempre buscando alcanzar el siguiente nivel de excelencia técnica.
+Competí en WorldSkills en Desarrollo de Software (Oro, WorldSkills Colombia · Plata, WorldSkills Américas), con el deseo de siempre ir buscando alcanzar el siguiente nivel de excelencia técnica.
 
-Me encanta el ecosistema **.NET** — con algunas incursiones en JavaScript y cualquier desafío que surja a las 2 de la mañana.
+Me encanta el ecosistema **.NET** — con algo de conocimiento en JavaScript.
 
 <br>
