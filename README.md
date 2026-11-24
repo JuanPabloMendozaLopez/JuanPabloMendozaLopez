@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.postimg.cc/C18hPgMX/descarga-(18).jpg" width="100%" alt="Banner"/>
-</div>
-
 <br>
 
 <div align="justify">
